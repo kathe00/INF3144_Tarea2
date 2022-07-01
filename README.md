@@ -11,6 +11,8 @@ Para ejecutar el código dentro de Replit, introducir en la Shell el comando "py
 
 En caso de querer ejectuar otras instancias, manipular el archivo main.py cambiando la ruta de lectura de la instancia, ubicada en la linea 6 del archivo.
 
+Con este [link](https://repl.it/github/kathe00/INF3144_Tarea2), puede importar el proyecto a la plataforma Repl.it.
+
 ## Cambio de instancia
 - Cambiar ejecución de QAP_sko56_04_n.txt a QAP_sko100_04_n.txt
 \
